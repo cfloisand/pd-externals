@@ -1,0 +1,64 @@
+#########################
+# .gitignore file for Xcode4 / OS X Source projects
+
+
+#####
+# OS X temporary files
+
+.DS_Store
+.DS_Store?
+._*
+*.swp
+*.lock
+profile
+
+
+####
+# Xcode temporary files
+
+*~.nib
+
+
+####
+# Xcode build files and other directories
+
+DerivedData/
+
+# NB: slash on the end, so we only remove the FOLDER, not any files that were badly named "build"
+
+build/
+
+# For Doxygen documentation files.
+Documentation/
+
+
+#####
+# Xcode private settings
+
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+#    NB: also, whitelist the default ones, some projects need to use these
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+
+
+####
+# Xcode 4 - semi-personal settings, often included in workspaces
+
+xcuserdata
+
+
+####
+# XCode 4 workspaces - more detailed
+
+!xcshareddata
+
+
+####
+# Xcode 4 - Deprecated classes
+
+*.moved-aside

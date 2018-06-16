@@ -11,7 +11,7 @@ External module for use in Pure Data that applies foldback distortion to an inco
 ![](https://github.com/cfloisand/pd-externals/blob/master/patch_foldback.png "foldback~ patch")
 
 ## Installation
-The generated libraries should be placed in the following folders based on platform:
+The generated libraries should be placed in the following folders based on platform (or whatever folder location is specified in Pure Data's externals path):
 
 #### macOS
 `~/Library/Pd`
@@ -21,7 +21,7 @@ or
 #### Windows
 `%appdata%\Pd`
 or
-`%commonprogramfiles%\Pd`
+`%userprofile%\Documents\Pd\externals`
 
 To access a module's help patch, copy the patches in the `Patches` directory into the `doc/5.reference/` directory of the Pure Data application.
 

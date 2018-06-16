@@ -1,0 +1,3 @@
+LIBRARY polyblep~
+EXPORTS
+	polyblep_tilde_setup

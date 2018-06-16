@@ -20,4 +20,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="foldback~.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>

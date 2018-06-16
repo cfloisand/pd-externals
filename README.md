@@ -3,12 +3,12 @@
 ### polyblep~
 External module for use in Pure Data that outputs a sawtooth wave generated with PolyBLEPs. The waveform retains much of its harmonic content, giving it a rich and deep sound. While the waveform is not completely band-limited, aliasing noise is very minimal if not entirely inaudible in all but the highest frequencies approaching Nyquist.
 
-![](https://github.com/cfloisand/pd-externals/blob/master/patch_polyblep.gif "polyblep~ patch")
+![](https://github.com/cfloisand/pd-externals/blob/master/patch_polyblep.png "polyblep~ patch")
 
 ### foldback~
 External module for use in Pure Data that applies foldback distortion to an incoming signal.
 
-![](https://github.com/cfloisand/pd-externals/blob/master/patch_foldback.gif "foldback~ patch")
+![](https://github.com/cfloisand/pd-externals/blob/master/patch_foldback.png "foldback~ patch")
 
 ## Installation
 The generated libraries should be placed in the following folders based on platform:

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "foldback~", "foldback~\foldback~\foldback~.vcxproj", "{B68F698A-DC9C-404F-A4B0-D329A08B5DF5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polyblep~", "polyblep~\polyblep~\polyblep~.vcxproj", "{60D78BC1-75D4-41EC-A5E7-B1863979E362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B68F698A-DC9C-404F-A4B0-D329A08B5DF5}.Debug|x64.ActiveCfg = Debug|x64
+		{B68F698A-DC9C-404F-A4B0-D329A08B5DF5}.Debug|x64.Build.0 = Debug|x64
+		{B68F698A-DC9C-404F-A4B0-D329A08B5DF5}.Debug|x86.ActiveCfg = Debug|Win32
+		{B68F698A-DC9C-404F-A4B0-D329A08B5DF5}.Debug|x86.Build.0 = Debug|Win32
+		{B68F698A-DC9C-404F-A4B0-D329A08B5DF5}.Release|x64.ActiveCfg = Release|x64
+		{B68F698A-DC9C-404F-A4B0-D329A08B5DF5}.Release|x64.Build.0 = Release|x64
+		{B68F698A-DC9C-404F-A4B0-D329A08B5DF5}.Release|x86.ActiveCfg = Release|Win32
+		{B68F698A-DC9C-404F-A4B0-D329A08B5DF5}.Release|x86.Build.0 = Release|Win32
+		{60D78BC1-75D4-41EC-A5E7-B1863979E362}.Debug|x64.ActiveCfg = Debug|x64
+		{60D78BC1-75D4-41EC-A5E7-B1863979E362}.Debug|x64.Build.0 = Debug|x64
+		{60D78BC1-75D4-41EC-A5E7-B1863979E362}.Debug|x86.ActiveCfg = Debug|Win32
+		{60D78BC1-75D4-41EC-A5E7-B1863979E362}.Debug|x86.Build.0 = Debug|Win32
+		{60D78BC1-75D4-41EC-A5E7-B1863979E362}.Release|x64.ActiveCfg = Release|x64
+		{60D78BC1-75D4-41EC-A5E7-B1863979E362}.Release|x64.Build.0 = Release|x64
+		{60D78BC1-75D4-41EC-A5E7-B1863979E362}.Release|x86.ActiveCfg = Release|Win32
+		{60D78BC1-75D4-41EC-A5E7-B1863979E362}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

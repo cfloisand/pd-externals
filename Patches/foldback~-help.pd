@@ -1,0 +1,31 @@
+#N canvas 258 822 442 213 10;
+#X obj 29 23 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0 1
+;
+#X msg 29 50 \; pd dsp \$1;
+#X obj 214 170 dac~;
+#X obj 214 125 *~ 0.5;
+#X obj 214 65 polyblep~ 440;
+#X floatatom 214 31 5 0 0 0 - - -, f 5;
+#X obj 394 58 vsl 15 64 0 1 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 2900 1;
+#X floatatom 394 132 5 0 0 0 - - -, f 5;
+#X obj 29 23 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0 1
+;
+#X msg 29 50 \; pd dsp \$1;
+#X obj 328 29 vsl 15 64 0 0.5 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 1200 1;
+#X floatatom 328 102 5 0 0 0 - - -, f 5;
+#X text 121 31 frequency (Hz);
+#X text 392 39 level;
+#X text 326 10 threshold;
+#X obj 214 95 tubedist~ 1 1 0;
+#X connect 0 0 1 0;
+#X connect 3 0 2 0;
+#X connect 3 0 2 1;
+#X connect 4 0 15 0;
+#X connect 5 0 4 0;
+#X connect 6 0 3 1;
+#X connect 6 0 7 0;
+#X connect 8 0 9 0;
+#X connect 10 0 11 0;
+#X connect 15 0 3 0;

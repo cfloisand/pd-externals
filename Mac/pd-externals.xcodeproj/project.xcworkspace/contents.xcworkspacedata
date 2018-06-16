@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:PdExternals.xcodeproj">
+      location = "self:/Users/Flyingsand/Programming/Open Source/pd-externals/pd-externals.xcodeproj">
    </FileRef>
 </Workspace>

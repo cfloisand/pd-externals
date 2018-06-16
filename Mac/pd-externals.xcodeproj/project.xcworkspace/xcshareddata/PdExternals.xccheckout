@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ABAC1F2D-D9F1-4AF8-B730-0EA2484C90B0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PdExternals</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7E520A5ED9107D9991659A633366E2D8AB7B618F</key>
+		<string>https://bitbucket.org/cfloisand/pdexternals.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PdExternals.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7E520A5ED9107D9991659A633366E2D8AB7B618F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/cfloisand/pdexternals.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7E520A5ED9107D9991659A633366E2D8AB7B618F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7E520A5ED9107D9991659A633366E2D8AB7B618F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PdExternals</string>
+		</dict>
+	</array>
+</dict>
+</plist>
